@@ -8,6 +8,11 @@ I'm MCA graduate with a strong foundation in Software Development and Data Analy
 
 ![Python](https://github.com/user-attachments/assets/ea442310-42d7-4fd0-8357-5efb8159d8da) 
 ![Java](https://github.com/user-attachments/assets/4a9684bc-9bff-4c25-b53f-d1c27f0271c4)
+![Machine Learning](https://example.com/ml-icon.png)
+![NLP](https://example.com/nlp-icon.png)
+![BERT](https://example.com/bert-icon.png)
+![Generative AI](https://example.com/gen-ai-icon.png)
+
 
 
 **📈 DA & DS:**
